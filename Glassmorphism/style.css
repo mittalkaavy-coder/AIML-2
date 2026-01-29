@@ -20,7 +20,6 @@ html, body {
     height: 100%;
     filter: blur(10px);
     z-index: -1;
-
 }
 
 .form-container{
@@ -86,4 +85,5 @@ button{
 
 button:hover {
     background: rgba(255, 255, 255, 0.4);
+
 }
